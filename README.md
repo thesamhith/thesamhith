@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesamhith.
+- 👋 Hi, I’m Samhith Konidena.
 - 👀 I’m interested in Technical Writing, latest technology and gadgets, video games, and football. 
 - 🌱 I’m currently learning Python and a few other programming languages.
 - 💞️ I’m looking to collaborate on technical writing and any open source projects related to it.
