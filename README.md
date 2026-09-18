@@ -6,7 +6,7 @@
 - 💼 Want to know more about me, my work? Check out: https://thesamhith.github.io/Portfolio/
 - 📫 How to reach me? Mail into: thesamhith@gmail.com
 - 🙋‍♂️ Pronouns: He/Him
-- ⚡ *Random fact about me*: I share my birthday with Abraham Lincoln! 
+- ⚡ **Random fact about me**: I share my birthday with Abraham Lincoln! 
 
 <!---
 thesamhith/thesamhith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
